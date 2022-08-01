@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Hey, I'm Victor Sanchez!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f913&text=Hey%252C%2520I%27m%2520Victor%2520Sanchez%21)](https://pimp-my-readme.webapp.io)
 
 - 😄 Pronouns: He/Him
 
