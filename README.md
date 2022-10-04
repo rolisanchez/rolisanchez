@@ -8,14 +8,9 @@ Visit my [Medium](https://medium.com/@vrsanchezj "Victor R. Sanchez Jara's Mediu
 
 <h3 align="left">My Social Media:</h3>
 
-[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/rolisanchez)
-[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/victorrsanchezj/)
-[![Stack Overflow](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Stack%20Overflow)](https://stackoverflow.com/users/4563424/victor-sanchez)
-
-<h3 align="left">Fun stats:</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rolisanchez)](https://git.io/streak-stats)
-[![Visitor Counter for rolisanchez](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=rolisanchez)](https://pimp-my-readme.webapp.io)
+[Twitter @rolisanchez](https://twitter.com/rolisanchez "Victor R. Sanchez Jara's Twitter").
+[LinkedIn ](https://www.linkedin.com/in/victorrsanchezj/ "Victor R. Sanchez Jara's LinkedIn").
+[Stack Overflow](https://stackoverflow.com/users/4563424/victor-sanchez "Victor R. Sanchez Jara's Stack Overflow").
 
 <h3 align="left">Some of the Tech I use:</h3>
 
