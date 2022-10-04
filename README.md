@@ -9,11 +9,14 @@ Visit my [Medium](https://medium.com/@vrsanchezj "Victor R. Sanchez Jara's Mediu
 <h3 align="left">My Social Media:</h3>
 
 [Twitter @rolisanchez](https://twitter.com/rolisanchez "Victor R. Sanchez Jara's Twitter").
+
 [LinkedIn ](https://www.linkedin.com/in/victorrsanchezj/ "Victor R. Sanchez Jara's LinkedIn").
+
 [Stack Overflow](https://stackoverflow.com/users/4563424/victor-sanchez "Victor R. Sanchez Jara's Stack Overflow").
 
 <h3 align="left">Some of the Tech I use:</h3>
 
 [![Top Langs](https://github-readme-stats-omega-navy.vercel.app/api/top-langs/?username=rolisanchez&layout=compact)](https://github.com/rolisanchez/github-readme-stats)
+
 [![JavaScript_HTML_CSS_Python_PostgreSQL_AWS_ReactJS_Swift](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_PostgreSQL_AWS_ReactJS_Swift)](https://pimp-my-readme.webapp.io)
 
