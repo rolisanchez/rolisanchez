@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 
-I am Victor Sanchez, a Software Engineer with experience in iOS Development and Full Stack development with React. I also have experience with Serverless technologies such as AWS Amplify and Firebase. I also dabble with mockups using Adobe XD and Balsamiq. I graduated with a B.Sc. in Control and Automation Engineering at the Federal University of Santa Catarina (UFSC) in Florianópolis, Brazil. I received my M.Sc. in Systems and Applications at National Tsing Hua University in Hsinchu, Taiwan.
+I am Victor Sanchez, a Software Engineer with experience in Full Stack development with React, Mobile Development with React Native and iOS Development. I have experience with Serverless technologies such as AWS Amplify and dabble with mockups using Adobe XD and Balsamiq. I received my M.Sc. in Systems and Applications at National Tsing Hua University in Hsinchu, Taiwan, and graduated with a B.Sc. in Control and Automation Engineering at the Federal University of Santa Catarina (UFSC) in Florianópolis, Brazil.
 
 Visit my [Medium](https://medium.com/@vrsanchezj "Victor R. Sanchez Jara's Medium").
 
@@ -16,7 +16,4 @@ Visit my [Medium](https://medium.com/@vrsanchezj "Victor R. Sanchez Jara's Mediu
 
 <h3 align="left">Some of the Tech I use:</h3>
 
-[![Top Langs](https://github-readme-stats-omega-navy.vercel.app/api/top-langs/?username=rolisanchez&layout=compact)](https://github.com/rolisanchez/github-readme-stats)
-
-[![JavaScript_HTML_CSS_Python_PostgreSQL_AWS_ReactJS_Swift](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_PostgreSQL_AWS_ReactJS_Swift)](https://pimp-my-readme.webapp.io)
-
+[![Top Langs](https://github-readme-stats-omega-navy.vercel.app/api/top-langs/?username=rolisanchez&hide_progress=true)](https://github.com/rolisanchez/github-readme-stats)
